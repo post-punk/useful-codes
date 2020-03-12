@@ -1,6 +1,6 @@
 # useful-codes
 useful codes
-//remove certain property
+```//remove certain property
 var rockets = [
     { country:'Russia', launches:32 },
     { country:'US', launches:23 },
@@ -17,3 +17,4 @@ var badElement = rockets.findIndex(el=> {
 
 //splice that shit
 rockets.splice(badElement, 1);
+```
