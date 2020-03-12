@@ -1,4 +1,3 @@
-# useful-codes
 useful codes
 ```//remove certain property
 var rockets = [
