@@ -1,5 +1,5 @@
-useful codes
-```//remove certain property
+Remove object with a certain property from the array:
+```
 var rockets = [
     { country:'Russia', launches:32 },
     { country:'US', launches:23 },
